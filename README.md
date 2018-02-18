@@ -1,5 +1,5 @@
-# BAD.tools
-Blended Agile Delivery Toolkit
+# The Blended Agile Delivery toolkit
+Welcome to the BAD Wiki MarkDown repo
 
 ## How do I add content
 * To add content, please create a branch from Master.
