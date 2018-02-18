@@ -48,4 +48,4 @@ The Elevator Pitch is a structured sentence:
 * Originator - [Jonathan Rasmusson - The Agile Samurai](https://pragprog.com/titles/jtrap/the-agile-samurai)
 
 ## Implemented by
-[<img src=https://github.com/garygreenBAD/inception/raw/master/images/burendo%20header.png width=25%>](http://burendo.com)
+[<img src=https://github.com/The-BAD-Toolit/Blended-Agile-Delivery-Toolkit/raw/master/images/burendo%20header.png width=25%>](http://burendo.com)

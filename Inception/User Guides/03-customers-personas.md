@@ -37,7 +37,7 @@ Personas generally include the following key pieces of information:
 
 Organize persona information in an easy to read, logical format. Depending on the amount of user research you were able to conduct and the nature of your organization, personas may be laid out in a number of ways, including:
 
-![Persona Types](/images/persona_types.png)
+![Persona Types](https://github.com/The-BAD-Toolit/Blended-Agile-Delivery-Toolkit/raw/master/images/persona_types.png)
 
 ### Questions to ask
 The following questions and areas of discussion will help you construct a snapshot of the visitors to your site.
@@ -71,7 +71,7 @@ The following questions and areas of discussion will help you construct a snapsh
 ### Persona 1
 Some personas are incredibly detailed, whereas others simply offer a brief sketch of each type of user. Here is an example of a portion of a larger persona developed by the U.S. Department of Agriculture's (USDA) Economic Research Service (ERS):
 
-![Persona Types](/images/persona1.jpg)
+![Persona Types](https://github.com/The-BAD-Toolit/Blended-Agile-Delivery-Toolkit/raw/master/images/persona1.jpg)
 
 - **Persona:** USDA Senior Manager Gatekeeper
 - **Fictional Name:** Matthew Johnson
@@ -96,7 +96,7 @@ _Source: Persona developed by the U.S. Department of Agriculture's (USDA) Econom
 ### Persona 2
 Here is an example of a full persona developed by the NHS (National Health Service) Digital in the UK:
 
-![Persona Types](/images/persona2.jpeg)
+![Persona Types](https://github.com/The-BAD-Toolit/Blended-Agile-Delivery-Toolkit/raw/master/images/persona2.jpeg)
 
 _Source: NHS Digital_
 
@@ -123,4 +123,4 @@ You may develop one or more personas for a project but limit yourself to the mai
 * Originator: [Colin Cooper - The Inmates Are Running the Asylum](https://www.amazon.com/Inmates-Are-Running-Asylum-Products/dp/B001CBPOPM/)
 
 ## Implemented by
-[<img src=https://github.com/garygreenBAD/inception/raw/master/images/burendo%20header.png width=25%>](http://burendo.com)
+[<img src=https://github.com/The-BAD-Toolit/Blended-Agile-Delivery-Toolkit/raw/master/images/burendo%20header.png width=25%>](http://burendo.com)
