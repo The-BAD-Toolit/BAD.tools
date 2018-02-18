@@ -1,2 +1,2 @@
 # BAD.tools
-Blended Agile Delivery toolkit
+Blended Agile Delivery Toolkit
