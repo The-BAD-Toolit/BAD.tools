@@ -11,3 +11,8 @@ Welcome to the BAD Wiki MarkDown repo
   * Content Area
     * Topic
       * User Guide
+
+## Suggested tools
+
+* Visual Studio Code
+* Githib Desktop
