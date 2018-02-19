@@ -16,6 +16,8 @@ My preferred method is to use a whiteboard and post it notes.
 
 1. Draw out the three sections; In Scope, Out of Scope, Unresolved
 1. Product Owner and team add post-it notes with items of scope
+1. Discuss and group each post-it into the correct category
+1. Assign owners to resolve unresolved scope items
 
 ## Examples
 [<img src=https://agilewarrior.files.wordpress.com/2010/10/thenotlist.png>](https://agilewarrior.wordpress.com/2010/11/06/the-agile-inception-deck/)

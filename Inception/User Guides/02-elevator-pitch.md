@@ -31,6 +31,12 @@ The Elevator Pitch is a structured sentence:
 * unlike Yahoo
 * our project will help internet users get to their desired content in a highly accurate, simple and efficient way
 
+Source: [Gary Green](mailto:contact@burendo.com) 
+
+[<img src=https://agilewarrior.files.wordpress.com/2010/10/elevator-pitch.png?>](https://agilewarrior.wordpress.com/2010/11/06/the-agile-inception-deck/)
+
+Source: [The Agile Warrior](https://agilewarrior.wordpress.com/2010/11/06/the-agile-inception-deck/)
+
 ## Gotchas
 * Don't spend too long on this.  Don't over think it
 * The sentence can be long, but not too long.  Remember this is an Elevator Pitch, something we should be able to express in less than a minute between floors on a lift
