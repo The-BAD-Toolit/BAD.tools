@@ -4,7 +4,7 @@
 
 ## Background
 
-NHS Digital has a bold vision: **To harness the power of information and technology to make health and care better** and uses VMOST Canvases to visualise and plan how they will achieve it
+NHS Digital has a bold vision: **To harness the power of information and technology to make health and care better** and uses VMOST Canvases to visualise and plan how they will achieve it.
 
 ## VMOST
 
