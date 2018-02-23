@@ -22,7 +22,7 @@ VMOST is structured into 5 elements:
 
 ## VMOST Canvas
 
-VMOST Canvas is a technique to help visualise an organisations' VMOST and was originated by [Austen Bell](http://bad.tools/vmost/) and is detailed under the [Blended Agile Delivery toolkit](http://bad.tools).
+VMOST Canvas is a technique to help visualise an organisations' VMOST and was originated by [Austen Bell](http://burendo.com) and is detailed under the [Blended Agile Delivery toolkit](http://bad.tools).
 
 [<img src=https://github.com/The-BAD-Toolit/Blended-Agile-Delivery-Toolkit/raw/VMOST/images/cheatsheet-VMOST-MissionBoard-A0.jpg width=25%>](http://bad.tools/docs/cheatsheet-VMOST-MissionBoard-A0.pdf)
 
