@@ -4,7 +4,7 @@
 
 ## Background
 
-NHS Digital has a bold vision: **To harness the power of information and technology to make health and care better** and uses VMOST Canvas to visualise and plan how they will achieve it.
+NHS Digital has a bold vision: **To harness the power of information and technology to make health and care better** and uses VMOST Canvas  to visualise and plan how they will achieve it.
 
 ## VMOST
 
@@ -38,10 +38,10 @@ We are currently working on the 2018/9 VMOST for the NHS Digital Delivery Centre
 
 ## Authors
 
-* Andrew Meyer - Programme Director - [NHS Digital Delivery Centre](https://digital.nhs.uk/home)
-* Gary Green - Director - [Burendo](http://burendo.com)
+* [Andrew Meyer](https://www.linkedin.com/in/andrew-meyer-6337a76/) - Programme Director - [NHS Digital Delivery Centre](https://digital.nhs.uk/home)
+* [Gary Green](https://www.linkedin.com/in/garygreenuk/) - Director - [Burendo](http://burendo.com)
 * **Originator - VMOST** - [Rakesh Sondhi](<http://rakeshsondhi.com/>)
-* **Originator - VMOST Canvas** - Austen Bell - Director - [Burendo](http://burendo.com)
+* **Originator - VMOST Canvas** - [Austen Bell](https://www.linkedin.com/in/austen-bell-55b8b121/) - Director - [Burendo](http://burendo.com)
 
 
 ## Links
